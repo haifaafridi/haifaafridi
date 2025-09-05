@@ -3,11 +3,11 @@
 
 ---
 
-- 🌱 I’m currently working on *Building strong foundations in Backend Development & AI*  
-- 💻 I’m currently learning *Java Backend Development, Advanced Web Development, and AI Basics*  
-- 🤝 I’m looking to collaborate on *Open-source projects related to AI, Web Development, and Java-based systems*  
-- ✍️ I plan to share my learnings and projects here on GitHub  
-- 🔗 Check out my progress here: [My GitHub Projects](https://github.com/haifaafridi)  
+-  I’m currently working on *Building strong foundations in Backend Development & AI*  
+- I’m currently learning *Java Backend Development, Advanced Web Development, and AI Basics*  
+-  I’m looking to collaborate on *Open-source projects related to AI, Web Development, and Java-based systems*  
+-  I plan to share my learnings and projects here on GitHub  
+
 
 ---
 
