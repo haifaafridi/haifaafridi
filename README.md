@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Haifa Khan Afridi</h1>
-<h3 align="center">Software Engineering Student at MCS, NUST | Exploring AI, Web Development & Backend Systems | From Pakistan 🇵🇰</h3>
+<h3 align="center">Software Engineering Student at NUST | Exploring AI, Web Development & Backend Systems | From Pakistan 🇵🇰</h3>
 
 ---
 
