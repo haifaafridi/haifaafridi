@@ -16,26 +16,26 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 Software Engineering student at **NUST** (CGPA: 3.58/4.00) who builds production-grade systems, not just course projects. I've shipped an end-to-end PERN stack application managing 100+ schools and 1,200+ students for an NGO, engineered a sub-3-second trade mirroring system across crypto exchanges, and interned as a Frontend Developer reducing page load latency by 20%.
 
 I care about clean architecture, real-world impact, and writing code that lasts beyond the deadline.
 
-- 🔭 **Currently building:** FSSS — replacing paper-based tracking for a 100+ school NGO network
-- 🌱 **Exploring:** AI/ML integration in production systems & advanced backend patterns
-- 💼 **Open to:** Internships, part-time roles, and meaningful open-source collaboration
-- 📍 **Based in:** Islamabad, Pakistan 🇵🇰
+-  **Currently building:** FSSS — replacing paper-based tracking for a 100+ school NGO network
+-  **Exploring:** AI/ML integration in production systems & advanced backend patterns
+-  **Open to:** Internships, part-time roles, and meaningful open-source collaboration
+-  **Based in:** Islamabad, Pakistan 🇵🇰
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🏫 [First Step Schools System](https://github.com/haifaafridi)
+### [First Step Schools System](https://github.com/haifaafridi)
 Full-stack NGO management platform serving **100+ schools** and **1,200+ students** — replacing paper-based tracking of academics, attendance, finance, and donor reporting.
 
 `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma`
@@ -48,7 +48,7 @@ Full-stack NGO management platform serving **100+ schools** and **1,200+ student
 </td>
 <td valign="top" width="50%">
 
-### 📈 [Cross-Exchange Trading Automation](https://github.com/haifaafridi)
+###  [Cross-Exchange Trading Automation](https://github.com/haifaafridi)
 Low-latency **(<3s)** system that mirrors live trade signals across cryptocurrency exchanges using dual-layer detection.
 
 `Python` `CCXT` `WebSockets` `Playwright` `asyncio`
@@ -63,7 +63,7 @@ Low-latency **(<3s)** system that mirrors live trade signals across cryptocurren
 <tr>
 <td valign="top" width="50%">
 
-### 🔍 [Verity – Misinformation Detection Pipeline](https://github.com/haifaafridi)
+###  [Verity – Misinformation Detection Pipeline](https://github.com/haifaafridi)
 Real-time NLP inference pipeline for detecting misinformation in text using transformer models.
 
 `Python` `FastAPI` `Hugging Face` `BERT` `RoBERTa`
@@ -142,13 +142,13 @@ Java Swing GUI desktop application for managing patients, staff, and departments
 
 ---
 
-## 🏆 Certifications & Training
+##  Certifications & Training
 
 | Certification | Issuer | Year |
 |---|---|---|
 | 🎓 Meta Full-Stack Developer Specialization | Meta / Coursera | 2025 |
 | 🤖 National AI Training Bootcamp – Indus AI Week | Ministry of IT & Telecom, Pakistan | 2026 |
-| 📊 Data Science Specialization *(In Progress)* | IBM / Coursera | 2026 |
+| 📊 Data Science Specialization  | IBM / Coursera | 2026 |
 
 ---
 
