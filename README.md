@@ -35,7 +35,7 @@ I care about clean architecture, real-world impact, and writing code that lasts 
 <tr>
 <td valign="top" width="50%">
 
-### [First Step Schools System](https://github.com/haifaafridi)
+### [First Step Schools System](https://github.com/haifaafridi/fsss-architecture-showcase)
 Full-stack NGO management platform serving **100+ schools** and **1,200+ students** — replacing paper-based tracking of academics, attendance, finance, and donor reporting.
 
 `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma`
